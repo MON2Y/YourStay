@@ -1,0 +1,9 @@
+@charset "UTF-8";	
+.input-group>.form-control, .input-group>.form-select{
+	    width: 85% !important;
+}
+@media (min-width: 768px){
+	.col-md-3 {
+    	width: 100% !important;
+	}
+}
